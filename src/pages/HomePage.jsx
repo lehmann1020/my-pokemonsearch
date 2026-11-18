@@ -4,7 +4,7 @@ import PokeSearch from '../components/PokeSearch'
 function HomePage() {
   return (
     <>
-      <Counter />
+      {/* <Counter /> */}
       <PokeSearch />
     </>
   )
